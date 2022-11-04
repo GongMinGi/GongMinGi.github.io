@@ -1,6 +1,6 @@
 ---
 title: "C++ 공부"
-layour: archive
+layou: archive
 permalink: categories/cpp
 author_profile: true
 ---
