@@ -8,6 +8,7 @@ main:
     url: /year-archive/
   - title: "Tag"
     url: /tags/
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -16,3 +17,6 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+sidebar:
+  - title: "Sample Title"
+    nav: sidebar-sample
