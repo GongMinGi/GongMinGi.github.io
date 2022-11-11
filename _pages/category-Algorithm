@@ -2,5 +2,7 @@
 title: "알고리즘 공부"
 layout: archive
 permalink: categories/Algorithm
-author_profile: true
+author_profile: false
+side_bar:
+     nav: "docs"
 ---
